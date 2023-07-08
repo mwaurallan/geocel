@@ -517,7 +517,7 @@
 					     Paybill Number 522533 A/No.5833837
 
 					<p><h5>Goods once sold cannot be reaccepted</h5></p><br />
-					<p><h5>"Your Partner for Quality Building Materials"/h5></p><br />
+					<p><h5>"Your Partner for Quality Building Materials"</h5></p><br />
 
 {{--					<p><h5>When you Think Of Buggers Think Scoops</h5></p>--}}
 					<p><h5> Print Time :{{ now()->format('H:i:s') }}</h5></P>
