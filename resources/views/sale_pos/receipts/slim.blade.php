@@ -515,14 +515,15 @@
 
 {{--					Mpesa Paybill:247247 -A/C ---}}
 					     Paybill Number 522533 A/No.5833837
+				</h5></p>
 
 					<p><h5>Goods once sold cannot be reaccepted</h5></p><br />
-					<p><h5>"Your Partner for Quality Building Materials"</h5></p><br />
+					<p><h6>"Your Partner for Quality Building Materials"</h6></p><br />
 
 {{--					<p><h5>When you Think Of Buggers Think Scoops</h5></p>--}}
 					<p><h5> Print Time :{{ now()->format('H:i:s') }}</h5></P>
 				</h5>
-				</p>
+{{--				</p>--}}
 				<p class="centered">
 {{--					{!! $receipt_details->footer_text !!}--}}
 {{--					Powered By Savannabits:0725263425--}}
