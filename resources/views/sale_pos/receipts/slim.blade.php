@@ -33,22 +33,23 @@
 				@if(!empty($receipt_details->display_name))
 					<span>
 {{--						{{$receipt_details->display_name}}--}}
-						Quality Products and Best Prices!!!
+						P.O.BOX 893-40600,Siaya
 					</span>
 					<br/>
 				@endif
 						@if(!empty($receipt_details->display_name))
 							<span>
 {{--						{{$receipt_details->display_name}}--}}
-						Bumala Town,Along Kisumu-Busia RD
+						Siaya Town,Along Siaya-Bondo RD
 					</span>
 							<br/>
 				@endif
 						@if(!empty($receipt_details->display_name))
 							<span>
 {{--						{{$receipt_details->display_name}}--}}
-						Tel:+254 707798110/+254 701204655 <br/>
-								Email:jurgenltd@gmail.com
+						Tel:+254 7290911762/+254 726588499 <br/>
+								Email:geocelenterprises2020@gmail.com <br />
+								PIN:P051688979M
 					</span>
 							<br/>
 				@endif
@@ -513,9 +514,11 @@
 					{{--					{!! $receipt_details->footer_text !!}--}}
 
 {{--					Mpesa Paybill:247247 -A/C ---}}
-					     Paybill Number 522533 A/No.7534957
+					     Paybill Number 522533 A/No.5833837
 
-					<p><h5>Thanks for Shopping with us.!!!!</h5></p>
+					<p><h5>Goods once sold cannot be reaccepted</h5></p><br />
+					<p><h5>"Your Partner for Quality Building Materials"/h5></p><br />
+
 {{--					<p><h5>When you Think Of Buggers Think Scoops</h5></p>--}}
 					<p><h5> Print Time :{{ now()->format('H:i:s') }}</h5></P>
 				</h5>
