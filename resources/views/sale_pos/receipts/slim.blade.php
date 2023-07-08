@@ -509,7 +509,7 @@
 			@endif
 
 			@if(empty($receipt_details->footer_text))
-
+<br />
 				<p class="centered"><h5>
 					{{--					{!! $receipt_details->footer_text !!}--}}
 
